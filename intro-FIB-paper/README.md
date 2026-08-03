@@ -2,7 +2,7 @@ This folder contains code and supporting materials for the manuscript *A Heterog
 
 Folders correspond to the figures in the paper as follows:
 
-* Figure 3 Phase Plane Plots
+* Figure 3 Phase-Plane-Plots
 * Figure 5 Prototypical-FIB
 * Figure 6 Prototypical-Heat
 * Figure 12 Tall-Heat
